@@ -1,5 +1,7 @@
 {
-  "tags-dir": "./components",
+  "taglibImports": [
+    "@lasso/marko-taglib/marko.json"
+  ],
   "<include-javascripts>": {
     "template": "./components/include-javascripts.marko"
   },
